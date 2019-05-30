@@ -13,9 +13,12 @@ tkinter has been used to give the user an intuitive approach to use the applicat
 3. [BUILT-IN]math
 4. [BUILT-IN]matplotlib
 5. [BUILT-IN]datetime
-6. [DOWNLOAD]pandas:  python -m pipinstall pandas
-7. [DOWNLOAD]numpy:   python -m pipinstall numpy
-8. [DOWNLOAD]quandl:  python -m pipinstall quandl
+6. [DOWNLOAD]pandas:  
+  python -m pipinstall pandas
+7. [DOWNLOAD]numpy:  
+  python -m pipinstall numpy
+8. [DOWNLOAD]quandl:  
+  python -m pipinstall quandl
 
 ### Notebooks
 The notrbooks for each algorithm have been provided explaning each step ofthe entire process.
